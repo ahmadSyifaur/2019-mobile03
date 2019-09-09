@@ -56,7 +56,7 @@
     <LinearLayout
         android:id="@+id/lyr2"
         android:layout_width="match_parent"
-        android:layout_height="268dp"
+        android:layout_height="257dp"
         android:layout_above="@id/abovebuttom"
         android:layout_alignParentBottom="false"
         android:layout_marginBottom="0dp"
